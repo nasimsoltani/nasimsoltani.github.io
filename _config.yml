@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nasim Soltani"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nasim Soltani"
   avatar           : "profile.png"
-  bio              : "PhD candidate at ECE department, Northeastern University"
-  location         : "Boston, MA, USA"
+  bio              : "PhD candidate"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao"
