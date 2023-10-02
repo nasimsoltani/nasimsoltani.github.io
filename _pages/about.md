@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I started my PhD in fall 2018 under the supervision of Prof. Kaushik Chowdhury, on the topic of wireless systems. My research is specifcally about using deep learning algorithms for the physical layer applications of wireless systems.  
+I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I started my PhD in computer engineering in Fall 2018 under the supervision of Prof. Kaushik Chowdhury. My reasearch is broadly at the intersection of wireless communications and machine learning, and my thesis topic is **Deep Learning for the Physical Layer: From Signal Classification to Decoding**.  
 
 Research Interests 
 ======
