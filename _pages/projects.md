@@ -31,7 +31,11 @@ _____________________________________________________________________________
 **NNs to achieve lower bit error rate**
 
 
+<img align="left" width="40%" src="/images/nn-key.drawio.png">
 **NNs for secure communication**
+<div style="text-align: justify" width="45%">
+
+
 
 **NNs to reduce communication overhead**
 
