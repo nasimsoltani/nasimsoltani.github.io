@@ -18,6 +18,8 @@ author_profile: true
  **Nasim Soltani**, K. Sankhe, J. Dy, S. Ioannidis, and K. Chowdhury, “More is Better: Data Augmentation for Channel-Resilient RF Fingerprinting,” IEEE Communications Magazine 58 (10), 66-72, 2020. [pdf](https://nasimsoltani.github.io/files/augmentation.pdf)
 
  * **Nasim Soltani**, K. Sankhe, S. Ioannidis, D. Jaisinghani, and K. Chowdhury, “Spectrum Awareness at the Edge: Modulation Classification using Smartphones,” IEEE Dynamic Spectrum Access Networks (DySPAN), Newark, NJ, USA, 2019. [pdf](https://nasimsoltani.github.io/files/spectrum.pdf)
+
+*shared authorship
  
 Full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao)
 
