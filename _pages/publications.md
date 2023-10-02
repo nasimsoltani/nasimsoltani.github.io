@@ -15,7 +15,7 @@ author_profile: true
 
  * **Nasim Soltani**, G. Reus-Muns, B. Salehi, J. Dy, S. Ioannidis, and K. Chowdhury, “RF Fingerprinting Unmanned Aerial Vehicles with Non-standard Transmitter Waveforms,” IEEE Transactions on Vehicular Technology, Issue 12, Volume 69, 2020, pp. 15518-15531.[pdf](https://nasimsoltani.github.io/files/uav.pdf)
 
- **Nasim Soltani**, K. Sankhe, J. Dy, S. Ioannidis, and K. Chowdhury, “More is Better: Data Augmentation for Channel-Resilient RF Fingerprinting,” IEEE Communications Magazine 58 (10), 66-72, 2020. [pdf](https://nasimsoltani.github.io/files/augmentation.pdf)
+ * **Nasim Soltani**, K. Sankhe, J. Dy, S. Ioannidis, and K. Chowdhury, “More is Better: Data Augmentation for Channel-Resilient RF Fingerprinting,” IEEE Communications Magazine 58 (10), 66-72, 2020. [pdf](https://nasimsoltani.github.io/files/augmentation.pdf)
 
  * **Nasim Soltani**, K. Sankhe, S. Ioannidis, D. Jaisinghani, and K. Chowdhury, “Spectrum Awareness at the Edge: Modulation Classification using Smartphones,” IEEE Dynamic Spectrum Access Networks (DySPAN), Newark, NJ, USA, 2019. [pdf](https://nasimsoltani.github.io/files/spectrum.pdf)
 
