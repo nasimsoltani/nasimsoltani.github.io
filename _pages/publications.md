@@ -9,7 +9,7 @@ author_profile: true
 and Localization in the 3.5 GHz Spectrum,” IEEE GLOBECOM 2022.
 
  * N. Soltani, D. Roy, K. Chowdhury, “PRONTO: Preamble Overhead Reduction with Neural Networks for
-Coarse Synchronization,” IEEE Transactions on Wireless Communications, March 2023.
+Coarse Synchronization,” IEEE Transactions on Wireless Communications, March 2023. [pdf](https://github.com/nasimsoltani/nasimsoltani.github.io/blob/master/files/pronto.pdf)
 
  * N. Soltani, H. Cheng, M. Belgiovine, Y. Li, H. Li, B. Azari, S. D’Oro, T. Imbiriba, T. Melodia, P. Closas,
 Y. Wang, D. Erdogmus, and K. Chowdhury, “Neural Network-based OFDM Receiver for Resource Con-
