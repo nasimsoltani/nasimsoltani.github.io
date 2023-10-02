@@ -7,8 +7,8 @@ author_profile: true
 ## Reviewer Role
 
 **conferences**
-* MSN’23
-* Globecom’23
+* IEEE MSN’23
+* IEEE Globecom’23
 * EAI Mobiquitous ’19
 * ACM Mobicom ’19
 * ACM GLSVLSI ’18
