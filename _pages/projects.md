@@ -28,7 +28,7 @@ Other papers that I have co-authored in this topic:
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link]()
 _____________________________________________________________________________
 
-# Group 2: NNs in the wireless receiver chain:
+## Group 2: NNs in the wireless receiver chain:
 
 
 **NNs to achieve lower bit error rate**
