@@ -8,7 +8,7 @@ author_profile: true
 
 
 <font size=”8”> My PhD research is broadly in the area of deep learning for the physical layer.</font>
-Specifically I have used deep learning for two distinct ares of:</div>
+Specifically I have used deep learning for two distinct ares of:
 * Deep learning for signal classification, RF fingerprinting. 
 * Deep learning in the wireless receiver chain.
 
