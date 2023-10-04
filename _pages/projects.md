@@ -9,8 +9,8 @@ author_profile: true
 
 My PhD research is broadly in the area of deep learning for the physical layer.
 Specifically I have used deep learning for two distinct ares of:
-* Deep learning for signal classification, RF fingerprinting. 
-* Deep learning in the wireless receiver chain.
+* Group 1: Deep learning for signal classification and RF fingerprinting. 
+* Group 2: Deep learning in the wireless receiver chain.
 
 ## Group 1: NNs for signal classification and RF fingerprinting:
 
@@ -26,7 +26,13 @@ Specifically I have used deep learning for two distinct ares of:
 Other papers that I have co-authored in this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link]()
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link]()
-  
+
+<p>&nbsp;</p>
+
+**Channel-resilient RF fingerprinting**
+<img align="left" width="40%" src="/images/augmentation.drawio.png">
+<div style="text-align: justify; font-size: 16px"> </div>
+
 _____________________________________________________________________________
 
 ## Group 2: NNs in the wireless receiver chain:
@@ -47,7 +53,7 @@ Other papers that I have co-authored in this topic:
 
 **NNs for secure communication**
 
-<img align="right" width="40%" src="/images/nn-key.drawio.png">
+<img align="left" width="40%" src="/images/nn-key.drawio.png">
 <div style="text-align: justify; font-size: 16px">
 In this project, a demapper neural network is used to demap custom modulation schemes that are created and used for data transmission by the transmitter. As shown in the diagram on the side, the transmitter chooses a custom modulation scheme that (a) has a custom bit to symbol mapping, (b) has a custom symbol positioning and mapping, (c) is part of other standard, but not the standard in use, or a combination of the three. After modulating the coded symbol with the chosen scheme, the transmitter trains a demapper neural network with a step of data augmentation. This demapper learns to demap the noisy data symbols at the receiver-side to the original coded transmitted bits. During training, a step of quantization also happens to shorten the bit representation of the model weights and biases. After training, the transmitter sends the weights and biases of the trained model as a vector to the receiver, and the receiver uses those weights and biases to demap data symbols of future data packets.</div>
 
