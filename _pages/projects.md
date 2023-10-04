@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-
 My PhD research is broadly in the area of deep learning for the physical layer.
 Specifically I have used deep learning for two distinct ares of:
 * Group 1: Deep learning for signal classification and RF fingerprinting. 
@@ -23,7 +21,7 @@ Specifically I have used deep learning for two distinct ares of:
 - [Slides](https://docs.google.com/presentation/d/1qv1SYKsGWMZfAAeIvOyLrjOPhzTsuUEhbcy94QAbFmE/edit?usp=sharing) presented at IEEE GLOBECOM December 2022, Rio, Brazil.
 - [Dataset](https://drive.google.com/drive/folders/1f6_9H7F-WWU1lR_vwlPeizTlKucIueu2?usp=sharing), [Code]().
 
-Other papers that I have co-authored in this topic:
+Other papers that I have co-authored on this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link]()
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link]()
 
@@ -31,12 +29,12 @@ Other papers that I have co-authored in this topic:
 
 **Channel-resilient RF fingerprinting**
 <img align="left" width="40%" src="/images/augmentation.drawio.png">
-<div style="text-align: justify; font-size: 16px"> </div>
+<div style="text-align: justify; font-size: 16px"> RF fingerprinting is identifying transmitters based on the physical layer properties of the signals that they emit. Each radio hardware is imposed to different imperfections that are caused during the manufacturing process. </div>
 
+<p>&nbsp;</p>
 _____________________________________________________________________________
 
 ## Group 2: NNs in the wireless receiver chain:
-
 
 **NNs to achieve lower bit error rate**
 
