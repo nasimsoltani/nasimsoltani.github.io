@@ -40,7 +40,7 @@ _____________________________________________________________________________
 
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9945833): **Nasim Soltani**, H. Cheng\*, M. Belgiovine\*, Y. Li\*, H. Li\*, B. Azari, S. D’Oro, T. Imbiriba, T. Melodia, P. Closas, Y. Wang, D. Erdogmus, and K. Chowdhury, “Neural Network-based OFDM Receiver for Resource Constrained IoT Devices,” IEEE Internet of Things Magazine 5 (3), pp. 158-164, 2022. [pdf](https://nasimsoltani.github.io/files/spinn.pdf)
 
-- Other papers that I have co-authored in this topic:
+Other papers that I have co-authored in this topic:
 - B. Azari, H. Cheng, **Nasim Soltani**, H. Li, Y Li, M. Belgiovine, T. Imbiriba, S. D’Oro, T. Melodia, Y. Wang, P. Closas, K. Chowdhury, D. Erdogmus, "Automated deep learning-based wide-band receiver," Computer Networks. 2022 Dec 9;218:109367. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004017)
 
 <p>&nbsp;</p>
