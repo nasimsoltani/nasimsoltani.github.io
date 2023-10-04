@@ -25,12 +25,14 @@ Other papers that I have co-authored on this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link]()
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link]()
 
+<hr style="border-top: dashed 1px;" />
 <p>&nbsp;</p>
 
 **Channel-resilient RF fingerprinting**
 <img align="left" width="40%" src="/images/augmentation.drawio.png">
 <div style="text-align: justify; font-size: 16px"> RF fingerprinting is identifying transmitters based on the physical layer properties of the signals that they emit. Each radio hardware is imposed to different imperfections that are caused during the manufacturing process. </div>
 
+<hr style="border-top: dashed 1px;" />
 <p>&nbsp;</p>
 _____________________________________________________________________________
 
@@ -41,12 +43,12 @@ _____________________________________________________________________________
 <img align="right" width="40%" src="/images/spinn.drawio.png">
 <div style="text-align: justify; font-size: 16px">In this project, different components of channel estimator, demapper, and docoder in the orthogonal frequency division multiplexing (OFDM) receiver chain are replaced with properly designed and trained neural network. For the channel estimator we use a regressor neural network, with the training set collected from a low noise environment. During training, we use a data augmentation step of dynamically adding different levels of noise to the signal, so that the neural network learns to estimate channels in noisy environment too while the labels are accurate becaue they are from a low noise environment. We train the channel estimator with time-domain L-LTF preamble, so that our neural network replaces both the FFT and channel estimator block in the traditional chain. For the demapper we use a fully connected network that demaps one equalized sample to a series of bits at a time. The output size of the neural network depends on the modulation scheme and the problem is a multi-label classification problem. For the decoder neural network we use a neural network with gated recurrent units and formulate it as a multi-label classification problem. For the labels of the demapper and the decoder, we use the transmitter-side coded and uncoded bits, respectively, to help the networks learn the original transmit bits. Finally we use pruning and quantization methods to compress these neural networks to make them suitable for implementing an end to end OFDM receiver on the FPGA.</div>
 
-
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9945833): **Nasim Soltani**, H. Cheng\*, M. Belgiovine\*, Y. Li\*, H. Li\*, B. Azari, S. D’Oro, T. Imbiriba, T. Melodia, P. Closas, Y. Wang, D. Erdogmus, and K. Chowdhury, “Neural Network-based OFDM Receiver for Resource Constrained IoT Devices,” IEEE Internet of Things Magazine 5 (3), pp. 158-164, 2022. [pdf](https://nasimsoltani.github.io/files/spinn.pdf)
 
 Other papers that I have co-authored in this topic:
 - B. Azari, H. Cheng, **Nasim Soltani**, H. Li, Y Li, M. Belgiovine, T. Imbiriba, S. D’Oro, T. Melodia, Y. Wang, P. Closas, K. Chowdhury, D. Erdogmus, "Automated deep learning-based wide-band receiver," Computer Networks. 2022 Dec 9;218:109367. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004017)
 
+<hr style="border-top: dashed 1px;" />
 <p>&nbsp;</p>
 
 **NNs for secure communication**
@@ -58,6 +60,7 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9700617): **Nasim Soltani**, Y, Li, D. Erdogmus, Y. Wang, and K. Chowdhury, “NN-key: A Neural Network-Based Secret Key for Demapping OFDM Symbols,” IEEE 19th annual Consumer Communications and Networking Conference (CCNC), 2022. [pdf](https://nasimsoltani.github.io/files/nn-key.pdf)
 - [Slides](https://docs.google.com/presentation/d/1_EjMDnrXlDdR9B5hJnyUIS8q5oaRzJWW3i4AyiIHcdg/edit?usp=sharing) Presented at IEEE CCNC, December 2021, virtual conference.
 
+<hr style="border-top: dashed 1px;" />
 <p>&nbsp;</p>
 
 **NNs to reduce communication overhead**
