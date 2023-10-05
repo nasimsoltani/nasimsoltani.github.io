@@ -25,7 +25,7 @@ Other papers that I have co-authored on this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link]()
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link]()
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 **Channel-resilient RF fingerprinting**
@@ -40,7 +40,7 @@ Other papers that I have co-authored on this topic:
 - T. Jian, B. Costa-Rendon, E. Ojuba, **Nasim Soltani**, Z. Wang, K. Sankhe, A. Gritsenko, J. Dy, K. Chowdhury, S. Ioannidis, “Deep Learning for RF Fingerprinting: A Massive Experimental Study,” IEEE Internet of Things Magazine. 2020 Apr 13;3(1):50-7. [link](https://ieeexplore.ieee.org/document/9063411)
 - A. Al-Shawabka, F. Restuccia, S. D’Oro, T. Jian, B. Costa Rendon, **Nasim Soltani**, J. Dy, K. Chowdhury, S. Ioannidis, and T. Melodia, “Exposing the Fingerprint: Dissecting the Impact of the Wireless Channel on Radio Fingerprinting,” to appear in Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Beijing, China ,2020. [link](https://ieeexplore.ieee.org/document/9155259)
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 **RF Fingerprinting UAVs**
@@ -56,7 +56,7 @@ Other papers I have co-authored on this topic:
 - S. Mohanti, **Nasim Soltani**, K. Sankhe, D. Jaisinghani, M. DiFelice and K. Chowdhury, “AirID: Injecting a Custom RF Fingerprint for Enhanced UAV Identification using Deep Learning,” IEEE Globecom, 7-11 December 2020, Taipei, Taiwan. [link](https://ieeexplore.ieee.org/document/9322561)
 - J. Gu, **Nasim Soltani**, Y. Naderi, K. Chowdhury, “It’s a Bird, It’s a Plane, It’s ‘That’ UAV: RF Fingerprinting During Flight,” 55th Asilomar Conference on Signals, Systems, and Computers, pp. 300-304, 2021. [link](https://ieeexplore.ieee.org/document/9723260)
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 **Modulation Classification on Smartphones**
@@ -64,7 +64,7 @@ Other papers I have co-authored on this topic:
 <img align="left" width="40%" src="/images/spectrum.drawio.png">
 <div style="text-align: justify; font-size: 16px"> As spectrum becomes crowded and spread over wide ranges, there is a growing need for efficient spectrum management techniques that need minimal, or even better, no human intervention. Identifying and classifying wireless signals of interest through deep learning is a first step, albeit with many practical pitfalls in porting laboratory-tested methods into the field. Towards this aim, this paper proposes using Android smartphones with TensorFlow Lite as an edge computing device that can run GPU-trained deep Convolutional Neural Networks (CNNs) for modulation classification. Our approach intelligently identifies the SNR region of the signal with high reliability (over 99\%) and chooses grouping of modulation labels that can be predicted with high (over 95\%) detection probability. We demonstrate that while there are no significant differences between the GPU and smartphone in terms of classification accuracy, the latter takes much less time (down to  $\frac{1}{870}$x), memory space ($\frac{1}{3}$ of the original size), and consumes minimal power, which makes our approach ideal for ubiquitous smartphone-based signal classification.</div>
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 _____________________________________________________________________________
 
@@ -81,7 +81,7 @@ _____________________________________________________________________________
 Other papers that I have co-authored in this topic:
 - B. Azari, H. Cheng, **Nasim Soltani**, H. Li, Y Li, M. Belgiovine, T. Imbiriba, S. D’Oro, T. Melodia, Y. Wang, P. Closas, K. Chowdhury, D. Erdogmus, "Automated deep learning-based wide-band receiver," Computer Networks. 2022 Dec 9;218:109367. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004017)
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 
@@ -96,7 +96,7 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9700617): **Nasim Soltani**, Y, Li, D. Erdogmus, Y. Wang, and K. Chowdhury, “NN-key: A Neural Network-Based Secret Key for Demapping OFDM Symbols,” IEEE 19th annual Consumer Communications and Networking Conference (CCNC), 2022. [pdf](https://nasimsoltani.github.io/files/nn-key.pdf)
 - [Slides](https://docs.google.com/presentation/d/1_EjMDnrXlDdR9B5hJnyUIS8q5oaRzJWW3i4AyiIHcdg/edit?usp=sharing) Presented at IEEE CCNC, December 2021, virtual conference.
 
-<hr style="border-top: dashed 1px;" />
+<hr style="border-top: dashed 2px;" />
 <!-- <p>&nbsp;</p> -->
 
 <img align="right" width="40%" src="/images/pronto.drawio.png">
