@@ -64,9 +64,8 @@ Other papers I have co-authored on this topic:
 <img align="left" width="40%" src="/images/spectrum.drawio.png">
 <div style="text-align: justify; font-size: 16px"> As spectrum becomes crowded and spread over wide ranges, there is a growing need for efficient spectrum management techniques that need minimal, or even better, no human intervention. Identifying and classifying wireless signals of interest through deep learning is a first step, albeit with many practical pitfalls in porting laboratory-tested methods into the field. Towards this aim, this paper proposes using Android smartphones with TensorFlow Lite as an edge computing device that can run GPU-trained deep Convolutional Neural Networks (CNNs) for modulation classification. Our approach intelligently identifies the SNR region of the signal with high reliability (over 99\%) and chooses grouping of modulation labels that can be predicted with high (over 95\%) detection probability. We demonstrate that while there are no significant differences between the GPU and smartphone in terms of classification accuracy, the latter takes much less time (down to  $\frac{1}{870}$x), memory space ($\frac{1}{3}$ of the original size), and consumes minimal power, which makes our approach ideal for ubiquitous smartphone-based signal classification.</div>
 
-<hr style="border-top: dashed 2px;" />
+<hr style="border-top: solid 2px;" />
 <!-- <p>&nbsp;</p> -->
-_____________________________________________________________________________
 
 ## Group 2: NNs in the wireless receiver chain:
 
