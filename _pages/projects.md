@@ -29,8 +29,40 @@ Other papers that I have co-authored on this topic:
 <!-- <p>&nbsp;</p> -->
 
 **Channel-resilient RF fingerprinting**
+
 <img align="left" width="40%" src="/images/augmentation.drawio.png">
 <div style="text-align: justify; font-size: 16px"> RF fingerprinting is identifying transmitters based on the physical layer properties of the signals that they emit. Each radio hardware is imposed to different imperfections that are caused during the manufacturing process. </div>
+
+- [Publication](https://ieeexplore.ieee.org/document/9247526): **Nasim Soltani**, K. Sankhe, J. Dy, S. Ioannidis, and K. Chowdhury, “More is Better: Data Augmentation for Channel-Resilient RF Fingerprinting,” IEEE Communications Magazine 58 (10), 66-72, 2020. [pdf](https://nasimsoltani.github.io/files/augmentation.pdf), 
+- [Dataset](https://genesys-lab.org/dataaugmentation)
+
+Other papers that I have co-authored on this topic:
+- T. Jian, B. Costa-Rendon, E. Ojuba, **Nasim Soltani**, Z. Wang, K. Sankhe, A. Gritsenko, J. Dy, K. Chowdhury, S. Ioannidis, “Deep Learning for RF Fingerprinting: A Massive Experimental Study,” IEEE Internet of Things Magazine. 2020 Apr 13;3(1):50-7. [link](https://ieeexplore.ieee.org/document/9063411)
+- A. Al-Shawabka, F. Restuccia, S. D’Oro, T. Jian, B. Costa Rendon, **Nasim Soltani**, J. Dy, K. Chowdhury, S. Ioannidis, and T. Melodia, “Exposing the Fingerprint: Dissecting the Impact of the Wireless Channel on Radio Fingerprinting,” to appear in Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Beijing, China ,2020. [link](https://ieeexplore.ieee.org/document/9155259)
+
+<hr style="border-top: dashed 1px;" />
+<!-- <p>&nbsp;</p> -->
+
+**RF Fingerprinting UAVs**
+
+<img align="right" width="40%" src="/images/uav.drawio.png">
+<div style="text-align: justify; font-size: 16px"> 
+The universal availability of unmanned aerial vehicles (UAVs) has resulted in many applications where the same make/model can be deployed by multiple parties. Thus, identifying a specific UAV in a given swarm, in a manner that cannot be spoofed by software methods, becomes important. We propose RF fingerprinting for this purpose, where a neural network learns subtle imperfections present in the transmitted waveform. For UAVs, the constant hovering motion raises a key challenge, which remains a fundamental problem in previous works on RF fingerprinting: Since the wireless channel changes constantly, the network trained with a previously collected dataset performs poorly on the test data. The main contribution of this paper is to address this problem by: (i) proposing a multi-classifier scheme with a two-step score-based aggregation method, (ii) using RF data augmentation to increase neural network robustness to hovering-induced variations, and (iii) extending the multi-classifier scheme for detecting a new UAV, not seen earlier during training. Importantly, our approach permits RF fingerprinting on manufacturer-proprietary waveforms that cannot be decoded or altered by the end-user. Results reveal a near two-fold accuracy in UAV classification through our multi-classifier method over the single-classifier case, with an overall accuracy of 95\% when tested with data under unseen channel. Our multi-classifier scheme also improves new UAV detection accuracy to a near perfect 99\%, up from 68\% for a single neural network approach.</div>
+
+- [Publication](https://ieeexplore.ieee.org/abstract/document/9277909): **Nasim Soltani**, G. Reus-Muns, B. Salehi, J. Dy, S. Ioannidis, and K. Chowdhury, “RF Fingerprinting Unmanned Aerial Vehicles with Non-standard Transmitter Waveforms,” IEEE Transactions on Vehicular Technology, Issue 12, Volume 69, 2020, pp. 15518-15531. [pdf](https://nasimsoltani.github.io/files/uav.pdf), 
+- [Dataset](https://genesys-lab.org/hovering-uavs)
+
+Other papers I have co-authored on this topic:
+- S. Mohanti, **Nasim Soltani**, K. Sankhe, D. Jaisinghani, M. DiFelice and K. Chowdhury, “AirID: Injecting a Custom RF Fingerprint for Enhanced UAV Identification using Deep Learning,” IEEE Globecom, 7-11 December 2020, Taipei, Taiwan. [link](https://ieeexplore.ieee.org/document/9322561)
+- J. Gu, **Nasim Soltani**, Y. Naderi, K. Chowdhury, “It’s a Bird, It’s a Plane, It’s ‘That’ UAV: RF Fingerprinting During Flight,” 55th Asilomar Conference on Signals, Systems, and Computers, pp. 300-304, 2021. [link](https://ieeexplore.ieee.org/document/9723260)
+
+<hr style="border-top: dashed 1px;" />
+<!-- <p>&nbsp;</p> -->
+
+**Modulation Classification on Smartphones**
+
+<img align="left" width="40%" src="/images/spectrum.drawio.png">
+<div style="text-align: justify; font-size: 16px"> As spectrum becomes crowded and spread over wide ranges, there is a growing need for efficient spectrum management techniques that need minimal, or even better, no human intervention. Identifying and classifying wireless signals of interest through deep learning is a first step, albeit with many practical pitfalls in porting laboratory-tested methods into the field. Towards this aim, this paper proposes using Android smartphones with TensorFlow Lite as an edge computing device that can run GPU-trained deep Convolutional Neural Networks (CNNs) for modulation classification. Our approach intelligently identifies the SNR region of the signal with high reliability (over 99\%) and chooses grouping of modulation labels that can be predicted with high (over 95\%) detection probability. We demonstrate that while there are no significant differences between the GPU and smartphone in terms of classification accuracy, the latter takes much less time (down to  $\frac{1}{870}$x), memory space ($\frac{1}{3}$ of the original size), and consumes minimal power, which makes our approach ideal for ubiquitous smartphone-based signal classification.</div>
 
 <hr style="border-top: dashed 1px;" />
 <!-- <p>&nbsp;</p> -->
