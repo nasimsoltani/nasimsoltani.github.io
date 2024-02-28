@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I started my PhD in computer engineering in Fall 2018 under the supervision of Prof. Kaushik Chowdhury. My reasearch is broadly at the intersection of wireless communications and machine learning, and my thesis topic is **"Deep Learning for the Physical Layer: From Signal Classification to Decoding"**.  
+I am a PhD candidate at the Electrical and Computer Engineering Department, Northeastern University, Boston, MA. I started my PhD in computer engineering in Fall 2018 under the supervision of Prof. Kaushik Chowdhury. My reasearch is broadly at the intersection of wireless communications and machine learning, and my thesis topic is **"Deep Learning for the Physical Layer: From Signal Classification to Decoding"**. 
+
+
+<span class="red-star">★</span> <i>I am in the academic job market looking for tenure-track positions that start in Fall 2024</i>.
+
 
 -------------------------------------------------
 
@@ -20,4 +24,6 @@ I am a PhD candidate at the Electrical and Computer Engineering Department, Nort
 ------------------------------------------------------
 
 ## News
+- January 2024: Our paper "Learning from the Best: Active Learning for Wireless Communications" is accepted in IEEE Wireless Communications Magazine. &#127881; 
+- November 2023: Our paper "PRONTO: Preamble Overhead Reduction with Neural Networks for Coarse Synchronization" is published in IEEE Transactions on Wireless Communications. &#127881;
 - August 2023: I defended my PhD proposal with the topic of "Deep Learning for the Physical Layer: From Signal Classification to Decoding".
