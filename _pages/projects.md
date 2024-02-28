@@ -13,6 +13,18 @@ The projects in these groups are summarized as follows:
 
 ## Group 1: NNs for Signal Classification and RF Fingerprinting:
 
+**Deep Active Learning to Reduce the Labeling Cost**
+<img align="right" width="40%" src="/images/activelearning.drawio.png">
+<div style="text-align: justify; font-size: 16px">Collecting an over-the-air wireless communications training dataset for deep learning-based communication tasks is relatively simple. However, labeling the dataset requires expert involvement and domain knowledge, may involve private intellectual properties, and is often computationally and financially expensive. Active learning is an emerging area of research in machine learning that aims to reduce the labeling overhead without accuracy degradation. Active learning algorithms identify the most critical and informative samples in an unlabeled dataset and label only those samples, instead of the complete set. In this paper, we introduce active learning for deep learning applications in wireless communications, and present its different categories. We present a case study of deep learning-based mmWave beam selection, where labeling is performed by a compute-intensive algorithm based on exhaustive search. We evaluate the performance of different active learning algorithms on a publicly available multi-modal dataset with different modalities including image and LiDAR. Our results show that using an active learning algorithm for class-imbalanced datasets can reduce labeling overhead by up to 50% for this dataset while maintaining the same accuracy as classical training.</div>
+
+- [Publication](https://arxiv.org/abs/2402.04896): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
+
+<hr style="border-top: dashed 2px;" />
+<!-- <p>&nbsp;</p> -->
+
+
+
+
 **NNs for Signal Detection in the CBRS Band**
 <img align="right" width="40%" src="/images/waldo.drawio.png">
 <div style="text-align: justify; font-size: 16px">Opening the Citizen Broadband Radio Service (CBRS) band in the US to secondary users offers unprecedented opportunities to LTE and 5G networks, as long as incumbent radar signals are protected from interference. Towards this aim, the US Federal Communications Commission (FCC) requires Environmental Sensing Capabilities (ESCs) to be installed along the coastal regions. Furthermore, FCC mandates that the secondary users transmit with low power levels, such that the aggregated interference and noise power in the vicinity of ESC sensors remains below -109 dBm/MHz. At this interference level, the ESC must detect 99% of radar pulses with peak power of at least -89 dBm/MHz. In this paper, we design an enhanced ESC sensor, called ESC+, that leverages the deep learning framework called `you only look once' (YOLO) for signal detection using spectrograms. We propose a two-stage spectrogram-based coarse and fine signal analysis method for: (i) detecting, and characterizing radar pulses in environments where the aggregated noise and interference level goes beyond FCC restrictions, and (ii) detecting and characterizing other signal types (e.g., 5G and LTE) in the CBRS band, with a goal of determining unauthorized users. We generate a realistic spectrogram dataset in MATLAB consisting of three signal types of radar, 5G, and LTE where the aggregated interference and noise power occurring concurrently with the radar pulse is varied upto -104 dBm/MHz. We show 100% radar pulse detection in interference and noise levels of up to 3 dB higher than what is required today.</div>
