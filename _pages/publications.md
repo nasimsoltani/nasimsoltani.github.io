@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+ * **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” to appear in IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
+
  * **Nasim Soltani**\*, V. Chaudhary\*, D. Roy, K. Chowdhury, “Finding Waldo in the CBRS Band: Signal Detection and Localization in the 3.5 GHz Spectrum,” IEEE GLOBECOM 2022. [pdf](https://nasimsoltani.github.io/files/waldo.pdf)
 
  * **Nasim Soltani**, D. Roy, K. Chowdhury, “PRONTO: Preamble Overhead Reduction with Neural Networks for Coarse Synchronization,” IEEE Transactions on Wireless Communications, March 2023. [pdf](https://nasimsoltani.github.io/files/pronto.pdf)
