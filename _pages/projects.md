@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 My PhD research is broadly in the area of deep learning for the physical layer.
-Specifically I have used deep learning for two distinct ares of:
+Specifically I have used deep learning for three distinct ares of:
 * Group 1: Deep learning for signal classification and RF fingerprinting (Spectrum sensing).
 * Group 2: Deep learning in the wireless receiver chain.
 * Group 3: Advances in Deep learning for AI at PHY.
