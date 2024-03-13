@@ -7,24 +7,12 @@ author_profile: true
 
 My PhD research is broadly in the area of deep learning for the physical layer.
 Specifically I have used deep learning for two distinct ares of:
-* Group 1: Deep learning for signal classification and RF fingerprinting. 
+* Group 1: Deep learning for signal classification and RF fingerprinting (Spectrum sensing).
 * Group 2: Deep learning in the wireless receiver chain.
+* Group 3: Advances in Deep learning for AI at PHY.
 The projects in these groups are summarized as follows:
 
-## Group 1: NNs for Signal Classification and RF Fingerprinting:
-
-**Deep Active Learning to Reduce the Labeling Cost**
-
-<img align="right" width="40%" src="/images/activelearning.drawio.png">
-<div style="text-align: justify; font-size: 16px">Collecting an over-the-air wireless communications training dataset for deep learning-based communication tasks is relatively simple. However, labeling the dataset requires expert involvement and domain knowledge, may involve private intellectual properties, and is often computationally and financially expensive. Active learning is an emerging area of research in machine learning that aims to reduce the labeling overhead without accuracy degradation. Active learning algorithms identify the most critical and informative samples in an unlabeled dataset and label only those samples, instead of the complete set. In this paper, we introduce active learning for deep learning applications in wireless communications, and present its different categories. We present a case study of deep learning-based mmWave beam selection, where labeling is performed by a compute-intensive algorithm based on exhaustive search. We evaluate the performance of different active learning algorithms on a publicly available multi-modal dataset with different modalities including image and LiDAR. Our results show that using an active learning algorithm for class-imbalanced datasets can reduce labeling overhead by up to 50% for this dataset while maintaining the same accuracy as classical training.</div>
-
-- [Publication](https://arxiv.org/abs/2402.04896): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
-
-<hr style="border-top: dashed 2px;" />
-<!-- <p>&nbsp;</p> -->
-
-
-
+## Group 1: NNs for Spectrum Sensing:
 
 **NNs for Signal Detection in the CBRS Band**
 <img align="right" width="40%" src="/images/waldo.drawio.png">
@@ -126,4 +114,18 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Publication](https://ieeexplore.ieee.org/abstract/document/10077552): **Nasim Soltani**, D. Roy, K. Chowdhury, "PRONTO: Preamble Overhead Reduction with Neural Networks for Coarse Synchronization," IEEE Transactions on Wireless Communications, March 2023. [pdf](https://nasimsoltani.github.io/files/pronto.pdf)
 - [Poster](https://nasimsoltani.github.io/files/pronto-poster.pdf) presented at [WIoT instituite](https://wiot.northeastern.edu/) industry day, May 2023, Boston, MA.
 - [Dataset](https://genesys-lab.org/oracle), [Code](https://github.com/nasimsoltani/PRONTO)
+
+
+
+## Group 3: Advances in Deep learning for AI at PHY:
+
+**Deep Active Learning to Reduce the Labeling Cost**
+
+<img align="right" width="40%" src="/images/activelearning.drawio.png">
+<div style="text-align: justify; font-size: 16px">Collecting an over-the-air wireless communications training dataset for deep learning-based communication tasks is relatively simple. However, labeling the dataset requires expert involvement and domain knowledge, may involve private intellectual properties, and is often computationally and financially expensive. Active learning is an emerging area of research in machine learning that aims to reduce the labeling overhead without accuracy degradation. Active learning algorithms identify the most critical and informative samples in an unlabeled dataset and label only those samples, instead of the complete set. In this paper, we introduce active learning for deep learning applications in wireless communications, and present its different categories. We present a case study of deep learning-based mmWave beam selection, where labeling is performed by a compute-intensive algorithm based on exhaustive search. We evaluate the performance of different active learning algorithms on a publicly available multi-modal dataset with different modalities including image and LiDAR. Our results show that using an active learning algorithm for class-imbalanced datasets can reduce labeling overhead by up to 50% for this dataset while maintaining the same accuracy as classical training.</div>
+
+- [Publication](https://arxiv.org/abs/2402.04896): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
+
+<hr style="border-top: dashed 2px;" />
+<!-- <p>&nbsp;</p> -->
 
