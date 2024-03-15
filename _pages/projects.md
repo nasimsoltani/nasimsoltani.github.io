@@ -116,6 +116,8 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Dataset](https://genesys-lab.org/oracle), [Code](https://github.com/nasimsoltani/PRONTO)
 
 
+<hr style="border-top: solid 2px;" />
+<!-- <p>&nbsp;</p> -->
 
 ## Group 3: Advances in Deep learning for AI at PHY:
 
