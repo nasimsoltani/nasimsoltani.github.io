@@ -21,7 +21,7 @@ The projects in these groups are summarized as follows:
 - [Publication](https://ieeexplore.ieee.org/abstract/document/10001638): **Nasim Soltani**\*, V. Chaudhary\*, D. Roy, K. Chowdhury, “Finding Waldo in the CBRS Band: Signal Detection and Localization in the 3.5 GHz Spectrum,” IEEE GLOBECOM 2022. [pdf](https://nasimsoltani.github.io/files/waldo.pdf)
 - [Poster](https://nasimsoltani.github.io/files/waldo-poster.pdf) presented at [AI-Edge](https://aiedge.osu.edu/) annual meeting, Septermber 2022, Columbus, Ohio. 
 - [Slides](https://docs.google.com/presentation/d/1qv1SYKsGWMZfAAeIvOyLrjOPhzTsuUEhbcy94QAbFmE/edit?usp=sharing) presented at IEEE GLOBECOM December 2022, Rio, Brazil.
-- [Dataset][https://drive.google.com/drive/folders/1f6_9H7F-WWU1lR_vwlPeizTlKucIueu2?usp=sharing](https://genesys-lab.org/waldo).
+- [Dataset](https://genesys-lab.org/waldo).
 
 Other papers that I have co-authored on this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link](https://ieeexplore.ieee.org/abstract/document/10353027)
