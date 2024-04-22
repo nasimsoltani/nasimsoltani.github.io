@@ -24,7 +24,7 @@ I am a PhD candidate at the Electrical and Computer Engineering Department, Nort
 ------------------------------------------------------
 
 ## News
-- April 2024: I gave a talk in Monthly Virtual Rising Star Symposium Series, at IEEE TCCN SIG AI/ML for Security. [flyer](https://github.com/nasimsoltani.github.io/files/Seminar-flyer-2024_04.pdf) , [link](https://youtu.be/bC6Nv4b3wl8)
+- April 2024: I gave a talk in Monthly Virtual Rising Star Symposium Series, at IEEE TCCN SIG AI/ML for Security. [flyer](https://nasimsoltani.github.io/files/Seminar-flyer-2024_04.pdf) , [link](https://youtu.be/bC6Nv4b3wl8)
 - January 2024: Our paper "Learning from the Best: Active Learning for Wireless Communications" is accepted in IEEE Wireless Communications Magazine. &#127881; 
 - November 2023: Our paper "PRONTO: Preamble Overhead Reduction with Neural Networks for Coarse Synchronization" is published in IEEE Transactions on Wireless Communications. &#127881;
 - August 2023: I defended my PhD proposal with the topic of "Deep Learning for the Physical Layer: From Signal Classification to Decoding".
