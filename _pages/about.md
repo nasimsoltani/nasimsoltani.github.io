@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [WNCG](https://wncg.org/) int Electrical and Computer Engineering Department, University of Texas at Austin, Austin, TX. I started my PhD in computer engineering in Fall 2018 under the supervision of Prof. [Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury). My reasearch is broadly at the intersection of wireless communications and machine learning, and my thesis topic is **"Deep Learning for the Physical Layer: From Signal Classification to Decoding"**. 
+I am a PhD student at [WNCG](https://wncg.org/) int Electrical and Computer Engineering Department, University of Texas at Austin, Austin, TX. I started my PhD in computer engineering in Fall 2018 under the supervision of [Prof. Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury). My reasearch is broadly at the intersection of wireless communications and machine learning, and my thesis topic is **"Deep Learning for the Physical Layer: From Signal Classification to Decoding"**. 
 
 
 <!-- <span class="red-star">★</span> <i>I am in the academic job market looking for tenure-track positions</i>. -->
