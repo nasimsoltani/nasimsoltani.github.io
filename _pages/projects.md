@@ -10,6 +10,7 @@ Specifically I have used deep learning for three distinct ares of:
 * Group 1: Deep learning for signal classification and RF fingerprinting (Spectrum sensing).
 * Group 2: Deep learning in the wireless receiver chain.
 * Group 3: Advances in Deep learning for AI at PHY.
+
 The projects in these groups are summarized as follows:
 
 ## Group 1: NNs for Spectrum Sensing:
