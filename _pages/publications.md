@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## Full List:
+
+Please find my full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao).
+
+## Selected Publications:
 
  * **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” to appear in IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
 
@@ -23,7 +29,6 @@ author_profile: true
 
 \*shared authorship
  
-Full publication list at [my Google Scholar profile](https://scholar.google.com/citations?user=XiXOUsMAAAAJ&hl=en&oi=ao)
 
 
 
