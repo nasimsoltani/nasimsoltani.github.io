@@ -24,6 +24,8 @@ I am a PhD student at [WNCG](https://wncg.org/) at the Electrical and Computer E
 ------------------------------------------------------
 
 ## News
+- February 2025: Our paper "UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN," was accepted at IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025, May 26-29, Barcelona, Spain. &#127881;
+- October 2024: I presented a poster "Lifelong learning for Open Radio Access Networks" at Student Research Showcase by WNCG group at the University of Texas at Austin, Austin, TX.
 - August 2024: I transferred to the University of Texas at Austin with my advisor, to continue my PhD.
 - June 2024: I presented a poster "Learning from the Best: Active Learning for Wireless Communications" at the Artificial Intelligence Modeling, Analysis, and Control of Complex Systems [(AIMACCS) Workshop](https://aiedge.osu.edu/aimaccs), June 4-5, 2024, Columbus, OH. [poster](https://nasimsoltani.github.io/files/activelearning-poster.pdf)
 - April 2024: I gave a talk in Monthly Virtual Rising Star Symposium Series, at IEEE TCCN SIG AI/ML for Security. [flyer](https://nasimsoltani.github.io/files/Seminar-flyer-2024_04.pdf), [slides](), [video](https://youtu.be/bC6Nv4b3wl8)
