@@ -24,6 +24,7 @@ I am a PhD student at [WNCG](https://wncg.org/) at the Electrical and Computer E
 ------------------------------------------------------
 
 ## News
+- July 2025: I was awarded the Engineering Foundation Endowed Graduate Fellowship from the Cockrell School of Engineering at the University of Texas at Austin for 2025-2026 academic year. &#127881
 - February 2025: Our paper "UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN" was accepted at IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025, May 26-29, Barcelona, Spain. &#127881;
 - October 2024: I presented a poster "Lifelong learning for Open Radio Access Networks" at Student Research Showcase by WNCG group at the University of Texas at Austin, Austin, TX.
 - August 2024: I transferred to the University of Texas at Austin with my advisor, to continue my PhD.
