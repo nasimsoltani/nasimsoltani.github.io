@@ -25,7 +25,10 @@ Here are my PhD projects in chronological order.
 
 - [Publication](https://ieeexplore.ieee.org/abstract/document/10536070): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://nasimsoltani.github.io/files/active-learning-paper.pdf)
 
-<hr style="border-top: dashed 2px;" />
+***
+***
+
+
 
 ## NNs In OFDM Receivers to Reduce Communication Overhead
 
