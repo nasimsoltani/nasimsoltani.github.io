@@ -11,9 +11,13 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 ## Selected Publications:
 
- * **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” to appear in IEEE Wireless Communications Magazine. [pdf](https://arxiv.org/pdf/2402.04896.pdf)
+ * **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” Under Review at IEEE journal. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
 
- * **Nasim Soltani**\*, V. Chaudhary\*, D. Roy, K. Chowdhury, “Finding Waldo in the CBRS Band: Signal Detection and Localization in the 3.5 GHz Spectrum,” IEEE GLOBECOM 2022. [pdf](https://nasimsoltani.github.io/files/waldo.pdf)
+ * **Nasim Soltani**, D. LoPriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communications and Networking (ICMLCN), May 2025, Barcelona, Spain. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
+
+ * **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine 31 (4), 2024. [pdf](https://nasimsoltani.github.io/files/active-learning-paper.pdf)
+
+ * **Nasim Soltani**\*, V. Chaudhary\*, D. Roy, K. Chowdhury, “Finding Waldo in the CBRS Band: Signal Detection and Localization in the 3.5 GHz Spectrum,” IEEE GLOBECOM, December 2022, Rio, Brazil. [pdf](https://nasimsoltani.github.io/files/waldo.pdf)
 
  * **Nasim Soltani**, D. Roy, K. Chowdhury, “PRONTO: Preamble Overhead Reduction with Neural Networks for Coarse Synchronization,” IEEE Transactions on Wireless Communications, March 2023. [pdf](https://nasimsoltani.github.io/files/pronto.pdf)
 
