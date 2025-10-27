@@ -17,16 +17,41 @@ The projects in these groups are summarized as follows:
 -->
 Here are my PhD projects in chronological order.
 
+## VERITAS
+
+<img align="right" width="40%" src="/images/veritas.drawio.png">
+<div style="text-align: justify; font-size: 16px">Abstract</div>
+
+- [Publication](https://arxiv.org/abs/2501.09761): **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” Available on ArXiv. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
+
+<br/>
+<img align="center" width="100%" src="/images/wavy.png">
+<br/>
+
+
+
+## UNICORN
+
+<img align="left" width="40%" src="/images/unicorn.drawio.png">
+<div style="text-align: justify; font-size: 16px">Abstract</div>
+
+- [Publication](https://ieeexplore.ieee.org/abstract/document/11140471): **Nasim Soltani**, D. Lopriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), May 2025. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
+
+<br/>
+<img align="center" width="100%" src="/images/wavy.png">
+<br/>
+
+
 
 ## Deep Active Learning to Reduce the Labeling Cost
 
 <img align="right" width="40%" src="/images/activelearning.drawio.png">
 <div style="text-align: justify; font-size: 16px">Collecting an over-the-air wireless communications training dataset for deep learning-based communication tasks is relatively simple. However, labeling the dataset requires expert involvement and domain knowledge, may involve private intellectual properties, and is often computationally and financially expensive. Active learning is an emerging area of research in machine learning that aims to reduce the labeling overhead without accuracy degradation. Active learning algorithms identify the most critical and informative samples in an unlabeled dataset and label only those samples, instead of the complete set. In this paper, we introduce active learning for deep learning applications in wireless communications, and present its different categories. We present a case study of deep learning-based mmWave beam selection, where labeling is performed by a compute-intensive algorithm based on exhaustive search. We evaluate the performance of different active learning algorithms on a publicly available multi-modal dataset with different modalities including image and LiDAR. Our results show that using an active learning algorithm for class-imbalanced datasets can reduce labeling overhead by up to 50% for this dataset while maintaining the same accuracy as classical training.</div>
 
-- [Publication](https://ieeexplore.ieee.org/abstract/document/10536070): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://nasimsoltani.github.io/files/active-learning-paper.pdf)
+- [Publication](https://ieeexplore.ieee.org/abstract/document/10536070): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine, 31 (4), 2024. [pdf](https://nasimsoltani.github.io/files/active-learning-paper.pdf)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## NNs In OFDM Receivers to Reduce Communication Overhead
@@ -39,7 +64,7 @@ Here are my PhD projects in chronological order.
 - [Dataset](https://genesys-lab.org/oracle), [Code](https://github.com/nasimsoltani/PRONTO)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## Deep Learning for Signal Detection and Time/Frequency Localization in the CBRS Band
@@ -57,7 +82,7 @@ Other papers that I have co-authored on this topic:
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link](https://ieeexplore.ieee.org/document/10268871)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## NNs for Secure Communication
@@ -70,7 +95,7 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Slides](https://docs.google.com/presentation/d/1_EjMDnrXlDdR9B5hJnyUIS8q5oaRzJWW3i4AyiIHcdg/edit?usp=sharing) Presented at IEEE CCNC, December 2021, virtual conference.
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## NNs In OFDM Receivers to Achieve Lower Bit Error Rate
@@ -84,7 +109,7 @@ Other papers that I have co-authored in this topic:
 - B. Azari, H. Cheng, **Nasim Soltani**, H. Li, Y Li, M. Belgiovine, T. Imbiriba, S. D’Oro, T. Melodia, Y. Wang, P. Closas, K. Chowdhury, D. Erdogmus, "Automated deep learning-based wide-band receiver," Computer Networks. 2022 Dec 9;218:109367. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004017)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## RF Fingerprinting UAVs
@@ -101,7 +126,7 @@ Other papers I have co-authored on this topic:
 - J. Gu, **Nasim Soltani**, Y. Naderi, K. Chowdhury, “It’s a Bird, It’s a Plane, It’s ‘That’ UAV: RF Fingerprinting During Flight,” 55th Asilomar Conference on Signals, Systems, and Computers, pp. 300-304, 2021. [link](https://ieeexplore.ieee.org/document/9723260)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## Channel-Resilient RF Fingerprinting through Data Augmentation
@@ -121,7 +146,7 @@ Other papers that I have co-authored on this topic:
 - A. Al-Shawabka, F. Restuccia, S. D’Oro, T. Jian, B. Costa Rendon, **Nasim Soltani**, J. Dy, K. Chowdhury, S. Ioannidis, and T. Melodia, “Exposing the Fingerprint: Dissecting the Impact of the Wireless Channel on Radio Fingerprinting,” to appear in Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Beijing, China ,2020. [link](https://ieeexplore.ieee.org/document/9155259)
 
 <br/>
-<img align="right" width="100%" src="/images/wavy.png">
+<img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
 ## Modulation Classification on Smartphones
