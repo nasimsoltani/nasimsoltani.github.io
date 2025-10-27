@@ -25,10 +25,9 @@ Here are my PhD projects in chronological order.
 
 - [Publication](https://ieeexplore.ieee.org/abstract/document/10536070): **Nasim Soltani**\*, J. Zhang\*, B. Salehi, D. Roy, R. Nowak, K. Chowdhury, “Learning from the Best: Active Learning for Wireless Communications,” IEEE Wireless Communications Magazine. [pdf](https://nasimsoltani.github.io/files/active-learning-paper.pdf)
 
-***
-***
-
-
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## NNs In OFDM Receivers to Reduce Communication Overhead
 
@@ -39,8 +38,9 @@ Here are my PhD projects in chronological order.
 - [Poster](https://nasimsoltani.github.io/files/pronto-poster.pdf) presented at [WIoT instituite](https://wiot.northeastern.edu/) industry day, May 2023, Boston, MA.
 - [Dataset](https://genesys-lab.org/oracle), [Code](https://github.com/nasimsoltani/PRONTO)
 
-
-<hr style="border-top: solid 2px;" />
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## Deep Learning for Signal Detection and Time/Frequency Localization in the CBRS Band
 
@@ -56,7 +56,9 @@ Other papers that I have co-authored on this topic:
 - G. Reus-Muns, P. Upadhyaya, U. Demir, N. Stephenson, **Nasim Soltani**, V. K. Shah, K. R. Chowdhury, “SenseORAN: O-RAN based Radar Detection in the CBRS Band,” IEEE Journal on Selected Areas in Communications (JSAC), July 2023. [link](https://ieeexplore.ieee.org/abstract/document/10353027)
 - C. Tassie, A. Gaber, V. Chaudhary, **Nasim Soltani**, M. Belgiovine, M. Loehning, V. Kotzsch, C. Schroeder, and K. Chowdhury, “Detection of Co-existing RF Signals in CBRS using ML: Dataset and API-based Collection Testbed,” IEEE Communications Magazine Accepted May 2023. [link](https://ieeexplore.ieee.org/document/10268871)
 
-<hr style="border-top: dashed 2px;" />
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## NNs for Secure Communication
 
@@ -67,7 +69,9 @@ In this project, a demapper neural network is used to demap custom modulation sc
 - [Publication](https://ieeexplore.ieee.org/abstract/document/9700617): **Nasim Soltani**, Y, Li, D. Erdogmus, Y. Wang, and K. Chowdhury, “NN-key: A Neural Network-Based Secret Key for Demapping OFDM Symbols,” IEEE 19th annual Consumer Communications and Networking Conference (CCNC), 2022. [pdf](https://nasimsoltani.github.io/files/nn-key.pdf)
 - [Slides](https://docs.google.com/presentation/d/1_EjMDnrXlDdR9B5hJnyUIS8q5oaRzJWW3i4AyiIHcdg/edit?usp=sharing) Presented at IEEE CCNC, December 2021, virtual conference.
 
-<hr style="border-top: dashed 2px;" />
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## NNs In OFDM Receivers to Achieve Lower Bit Error Rate
 
@@ -79,8 +83,9 @@ In this project, a demapper neural network is used to demap custom modulation sc
 Other papers that I have co-authored in this topic:
 - B. Azari, H. Cheng, **Nasim Soltani**, H. Li, Y Li, M. Belgiovine, T. Imbiriba, S. D’Oro, T. Melodia, Y. Wang, P. Closas, K. Chowdhury, D. Erdogmus, "Automated deep learning-based wide-band receiver," Computer Networks. 2022 Dec 9;218:109367. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004017)
 
-<hr style="border-top: dashed 2px;" />
-
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## RF Fingerprinting UAVs
 
@@ -95,7 +100,9 @@ Other papers I have co-authored on this topic:
 - S. Mohanti, **Nasim Soltani**, K. Sankhe, D. Jaisinghani, M. DiFelice and K. Chowdhury, “AirID: Injecting a Custom RF Fingerprint for Enhanced UAV Identification using Deep Learning,” IEEE Globecom, 7-11 December 2020, Taipei, Taiwan. [link](https://ieeexplore.ieee.org/document/9322561)
 - J. Gu, **Nasim Soltani**, Y. Naderi, K. Chowdhury, “It’s a Bird, It’s a Plane, It’s ‘That’ UAV: RF Fingerprinting During Flight,” 55th Asilomar Conference on Signals, Systems, and Computers, pp. 300-304, 2021. [link](https://ieeexplore.ieee.org/document/9723260)
 
-<hr style="border-top: dashed 2px;" />
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## Channel-Resilient RF Fingerprinting through Data Augmentation
 
@@ -113,7 +120,9 @@ Other papers that I have co-authored on this topic:
 - T. Jian, B. Costa-Rendon, E. Ojuba, **Nasim Soltani**, Z. Wang, K. Sankhe, A. Gritsenko, J. Dy, K. Chowdhury, S. Ioannidis, “Deep Learning for RF Fingerprinting: A Massive Experimental Study,” IEEE Internet of Things Magazine. 2020 Apr 13;3(1):50-7. [link](https://ieeexplore.ieee.org/document/9063411)
 - A. Al-Shawabka, F. Restuccia, S. D’Oro, T. Jian, B. Costa Rendon, **Nasim Soltani**, J. Dy, K. Chowdhury, S. Ioannidis, and T. Melodia, “Exposing the Fingerprint: Dissecting the Impact of the Wireless Channel on Radio Fingerprinting,” to appear in Proceedings of IEEE International Conference on Computer Communications (INFOCOM), Beijing, China ,2020. [link](https://ieeexplore.ieee.org/document/9155259)
 
-<hr style="border-top: dashed 2px;" />
+<br/>
+<img align="right" width="100%" src="/images/wavy.png">
+<br/>
 
 ## Modulation Classification on Smartphones
 
