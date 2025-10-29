@@ -34,11 +34,13 @@ Here are my PhD projects in chronological order.
 
 <img align="left" width="40%" src="/images/unicorn.drawio.png">
 <div style="text-align: justify; font-size: 16px">
-  Resource allocation in 5G NR depends on the type of traffic for different users. Different applications are pre-categorized as different traffic types and the gNB follows these categories to orchestrate resources to different users that are running different applications. However, each application could have different delay or reliability requirements depending on the context and therefore, the pre-defined application to traffic mapping might not precisely reflect
+  Resource allocation in 5G NR depends on the type of traffic for different users. Different applications are pre-categorized as different traffic types and the gNB follows these categories to orchestrate resources to different users that are running different applications. However, each application could have different delay or reliability requirements depending on the context and therefore, the pre-defined application to traffic type mapping might not precisely reflect application requirements in that specific context. This is why application classification instead of traffic type classification could help in finer-grained resource allocation. Furthermore, with the creation of new applications every day, gNB might encounter new applications that is it not previously trained to classify. In this case the gNB should be able to distinguish the new applications classes from the previously seen applications. Finally, all the known application classification and unknown application detection must happen by preserving privacy and without exposing user data. UNICORN proposes a joint classification and OOD detection pipeline for O-RAN compliant systems where 17 network key performance indicators (KPIs) are monitored to identify the application type.  
 </div>
 
 - [Publication](https://ieeexplore.ieee.org/abstract/document/11140471): **Nasim Soltani**, D. LoPriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), May 2025. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
-
+- [Dataset](https://genesys-lab.org/unicorn)
+- [Code](https://github.com/nasimsoltani/unicorn)
+- [Poster] (https://nasimsoltani.github.io/files/unicorn-poster.pdf) Presented at IEEE ICMLCN 2025, May 2025, Barcelona, Spain.
 <br/>
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
