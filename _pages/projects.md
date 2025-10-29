@@ -30,10 +30,12 @@ Here are my PhD projects in chronological order.
 
 
 
-## UNICORN
+## UNICORN: URLLC Traffic Application Classification and OOD Detection in O-RAN
 
 <img align="left" width="40%" src="/images/unicorn.drawio.png">
-<div style="text-align: justify; font-size: 16px">Abstract</div>
+<div style="text-align: justify; font-size: 16px">
+  Resource allocation in 5G NR depends on the type of traffic for different users. Different applications are pre-categorized as different traffic types and the gNB follows these categories to orchestrate resources to different users that are running different applications. However, each application could have different delay or reliability requirements depending on the context and therefore, the pre-defined application to traffic mapping might not precisely reflect
+</div>
 
 - [Publication](https://ieeexplore.ieee.org/abstract/document/11140471): **Nasim Soltani**, D. LoPriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), May 2025. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
 
@@ -43,7 +45,7 @@ Here are my PhD projects in chronological order.
 
 
 
-## Deep Active Learning to Reduce the Labeling Cost
+## Learning From the Best: Deep Active Learning to Reduce the Labeling Cost
 
 <img align="right" width="40%" src="/images/activelearning.drawio.png">
 <div style="text-align: justify; font-size: 16px">Collecting an over-the-air wireless communications training dataset for deep learning-based communication tasks is relatively simple. However, labeling the dataset requires expert involvement and domain knowledge, may involve private intellectual properties, and is often computationally and financially expensive. Active learning is an emerging area of research in machine learning that aims to reduce the labeling overhead without accuracy degradation. Active learning algorithms identify the most critical and informative samples in an unlabeled dataset and label only those samples, instead of the complete set. In this paper, we introduce active learning for deep learning applications in wireless communications, and present its different categories. We present a case study of deep learning-based mmWave beam selection, where labeling is performed by a compute-intensive algorithm based on exhaustive search. We evaluate the performance of different active learning algorithms on a publicly available multi-modal dataset with different modalities including image and LiDAR. Our results show that using an active learning algorithm for class-imbalanced datasets can reduce labeling overhead by up to 50% for this dataset while maintaining the same accuracy as classical training.</div>
@@ -54,7 +56,7 @@ Here are my PhD projects in chronological order.
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
-## NNs In OFDM Receivers to Reduce Communication Overhead
+## PRONTO: NNs In OFDM Receivers to Reduce Communication Overhead
 
 <img align="left" width="40%" src="/images/pronto.drawio.png">
 <div style="text-align: justify; font-size: 16px">In IEEE 802.11 WiFi-based waveforms, the receiver performs coarse time and frequency synchronization using the first field of the preamble known as the legacy short training field (L-STF). The L-STF occupies upto 40% of the preamble length and takes upto 32 $\mu$s of airtime. With the goal of reducing communication overhead, we propose a modified waveform, where the preamble length is reduced by eliminating the L-STF. To decode this modified waveform, we propose a neural network (NN)-based scheme called PRONTO that performs coarse time and frequency estimations using other preamble fields, specifically the legacy long training field (L-LTF). Our contributions are threefold: (i) We present PRONTO featuring customized convolutional neural networks (CNNs) for packet detection and coarse carrier frequency offset (CFO) estimation, along with data augmentation steps for robust training. (ii) We propose a generalized decision flow that makes PRONTO compatible with legacy waveforms that include the standard L-STF. (iii) We validate the outcomes on an over-the-air WiFi dataset from a testbed of software defined radios (SDRs). Our evaluations show that PRONTO can perform packet detection with 100% accuracy, and coarse CFO estimation with errors as small as 3%. We demonstrate that PRONTO provides upto 40% preamble length reduction with no bit error rate (BER) degradation. We further show that PRONTO is able to achieve the same performance in new environments without the need to re-train the CNNs. Finally, we experimentally show the speedup achieved by PRONTO through GPU parallelization over the corresponding CPU-only implementations.</div>
@@ -67,7 +69,7 @@ Here are my PhD projects in chronological order.
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
-## Deep Learning for Signal Detection and Time/Frequency Localization in the CBRS Band
+## WALDO: Deep Learning for Signal Detection and Time/Frequency Localization in the CBRS Band
 
 <img align="right" width="40%" src="/images/waldo.drawio.png">
 <div style="text-align: justify; font-size: 16px">Opening the Citizen Broadband Radio Service (CBRS) band in the US to secondary users offers unprecedented opportunities to LTE and 5G networks, as long as incumbent radar signals are protected from interference. Towards this aim, the US Federal Communications Commission (FCC) requires Environmental Sensing Capabilities (ESCs) to be installed along the coastal regions. Furthermore, FCC mandates that the secondary users transmit with low power levels, such that the aggregated interference and noise power in the vicinity of ESC sensors remains below -109 dBm/MHz. At this interference level, the ESC must detect 99% of radar pulses with peak power of at least -89 dBm/MHz. In this paper, we design an enhanced ESC sensor, called ESC+, that leverages the deep learning framework called `you only look once' (YOLO) for signal detection using spectrograms. We propose a two-stage spectrogram-based coarse and fine signal analysis method for: (i) detecting, and characterizing radar pulses in environments where the aggregated noise and interference level goes beyond FCC restrictions, and (ii) detecting and characterizing other signal types (e.g., 5G and LTE) in the CBRS band, with a goal of determining unauthorized users. We generate a realistic spectrogram dataset in MATLAB consisting of three signal types of radar, 5G, and LTE where the aggregated interference and noise power occurring concurrently with the radar pulse is varied upto -104 dBm/MHz. We show 100% radar pulse detection in interference and noise levels of up to 3 dB higher than what is required today.</div>
@@ -85,7 +87,7 @@ Other papers that I have co-authored on this topic:
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
-## NNs for Secure Communication
+## NN-key: NNs for Secure Communication
 
 <img align="left" width="40%" src="/images/nn-key.drawio.png">
 <div style="text-align: justify; font-size: 16px">
@@ -129,7 +131,7 @@ Other papers I have co-authored on this topic:
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
 
-## Channel-Resilient RF Fingerprinting through Data Augmentation
+## More is Better: Channel-Resilient RF Fingerprinting through Data Augmentation
 
 <img align="right" width="40%" src="/images/augmentation.drawio.png">
 <div style="text-align: justify; font-size: 16px"> 
