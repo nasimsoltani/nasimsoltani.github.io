@@ -40,7 +40,7 @@ Here are my PhD projects in chronological order.
 - [Publication](https://ieeexplore.ieee.org/abstract/document/11140471): **Nasim Soltani**, D. LoPriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), May 2025. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
 - [Dataset](https://genesys-lab.org/unicorn)
 - [Code](https://github.com/nasimsoltani/unicorn)
-- [Poster](https://nasimsoltani.github.io/files/unicorn-poster.pdf), presented at IEEE ICMLCN 2025, May 2025, Barcelona, Spain.
+- [Poster](https://nasimsoltani.github.io/files/unicorn-poster.pdf) presented at IEEE ICMLCN 2025, May 2025, Barcelona, Spain.
 <br/>
 <img align="center" width="100%" src="/images/wavy.png">
 <br/>
