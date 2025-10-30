@@ -24,6 +24,8 @@ I am a PhD student at [WNCG](https://wncg.org/) at the Electrical and Computer E
 ------------------------------------------------------
 
 ## News
+
+- October 2025: I attended the Summit for AI Institutes Leadership [(SAIL) 2025](https://aiinstitutes.org/event/save-the-date-summit-for-ai-institutes-leadership-sail-2025/) in Reston, VA, as [AI-Edge](https://aiedge.osu.edu/) representative student, and presented my research as a poster in the graduate student workshop.
 - July 2025: I was awarded the Engineering Foundation Endowed Graduate Fellowship by the Cockrell School of Engineering at the University of Texas at Austin for 2025-2026 academic year. &#127881;
 - February 2025: Our paper "UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN" was accepted at IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2025, May 26-29, Barcelona, Spain. &#127881;
 - October 2024: I presented a poster "Lifelong learning for Open Radio Access Networks" at Student Research Showcase by WNCG group at the University of Texas at Austin, Austin, TX.
