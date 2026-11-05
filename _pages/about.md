@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral fellow at [WNCG](https://wncg.org/) at the Electrical and Computer Engineering Department, University of Texas at Austin, Austin, TX. I obtained my PhD in electrical and computer engineering in Summer 2026 under the supervision of [Prof. Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury), with dissertation title **"Applied Deep Learning for Next-G Communication Systems"**. My reasearch is broadly at the intersection of wireless communications and machine learning.
+I am a Postdoctoral fellow at [WNCG](https://wncg.org/) at the Electrical and Computer Engineering Department, The University of Texas at Austin, Austin, TX. I obtained my PhD in electrical and computer engineering in Summer 2026 under the supervision of [Prof. Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury), with dissertation title **"Applied Deep Learning for Next-G Communication Systems"**. My reasearch is broadly at the intersection of wireless communications and machine learning.
 
 <!-- <span class="red-star">★</span> <i>I am in the academic job market looking for tenure-track positions</i>. -->
 
@@ -26,7 +26,7 @@ I am a Postdoctoral fellow at [WNCG](https://wncg.org/) at the Electrical and Co
 ## News
 
 - September 2026: Our paper "Sharing of Irreversible Latent Features in lieu of RF IQ Data for Multiple Downstream Learning Tasks" was accepted in ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing [(MobiHoc) 2026](https://www.sigmobile.org/mobihoc/2026/). &#127881;
-- July 2026: I defended my PhD thesis, and started as a Post-doctrol fellow at the WNCG. &#127881;
+- July 2026: I defended [my PhD dissertation](https://repositories.lib.utexas.edu/items/f3acfebd-0526-4bde-a58f-6ef3ac701146), and started as a Post-doctrol fellow at the WNCG. &#127881;
 - October 2025: I attended the Summit for AI Institutes Leadership [(SAIL) 2025](https://aiinstitutes.org/event/save-the-date-summit-for-ai-institutes-leadership-sail-2025/) in Reston, VA, as [AI-Edge](https://aiedge.osu.edu/) representative student, and presented my research as a poster in the graduate student workshop.
 - July 2025: I was awarded the Engineering Foundation Endowed Graduate Fellowship by the Cockrell School of Engineering at the University of Texas at Austin for 2025-2026 academic year. &#127881;
 - February 2025: Our paper "UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN" was accepted at IEEE International Conference on Machine Learning for Communication and Networking [(ICMLCN) 2025](https://icmlcn2025.ieee-icmlcn.org/), May 26-29, Barcelona, Spain. &#127881;
