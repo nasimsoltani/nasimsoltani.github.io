@@ -17,6 +17,49 @@ The projects in these groups are summarized as follows:
 -->
 Here are my PhD projects in chronological order.
 
+
+
+<a href="/projects/nn-rx/"
+   style="text-decoration: none; color: inherit;">
+
+  <div style="
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 12px;
+    max-width: 350px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+  ">
+
+    <img src="/images/unicorn.drawio.png"
+         alt="NN-Receiver"
+         style="
+           width: 80px;
+           height: 80px;
+           object-fit: cover;
+           border-radius: 12px;
+         ">
+
+    <div>
+      <strong>NN-Receivers</strong>
+      <p style="margin: 5px 0; font-size: 14px;">
+        Neural Network Based Receivers
+      </p>
+    </div>
+
+  </div>
+</a>
+
+
+
+
+
+
+
 ## CORAL: Class-incremental Learning for O-RAN URLLC Network Traffic Classification
 <img align="left" width="40%" src="/images/coral.drawio.png" style="margin-right: 20px; margin-bottom: 10px;">
 <div style="text-align: justify; font-size: 16px">
