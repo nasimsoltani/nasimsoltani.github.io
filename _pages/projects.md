@@ -17,6 +17,20 @@ The projects in these groups are summarized as follows:
 -->
 Here are my PhD projects in chronological order.
 
+## CORAL: Class-incremental Learning for O-RAN URLLC Network Traffic Classification
+<img align="left" width="40%" src="/images/coral.drawio.png" style="margin-right: 20px; margin-bottom: 10px;">
+<div style="text-align: justify; font-size: 16px">
+The promise of Ultra-Reliable Low Latency Communication (URLLC) will transform verticals such as virtual reality, telesurgery, and tactile Internet among others. There are subtle differences in resource requirements between applications within URLLC category that may allow the network to perform fine-tuned resource allocation to satisfy stringent latency/jitter constraints. Furthermore, the emergence of new applications renders continual learning of application classes necessary. This paper proposes CORAL, a closed-loop neural network (NN)-based framework for classifying in-library URLLC applications, detecting new out-of-library ones, and incrementally training the NN to learn the new applications. CORAL is specifically designed for Open Radio Access Network (O-RAN) compliant cellular network stack and works with standardized key performance indicators (KPIs) traces as NN inputs, to enable continual application identification without any interactions from the application layer or from the user equipment (UE). The core approach leverages a CNN and a variational autoencoder (VAE) for application classification and out-of-distribution (OOD) detection, respectively, at the near-real-time Radio access network intelligence controller (near-RT RIC). The detected OOD samples are transferred to the non-real-time (non-RT) RIC where LoRA adapters are employed to learn the new class while preventing catastrophic forgetting without having access to any rehearsal buffer containing old classes. CORAL is evaluated on a real-world dataset collected from a commercial cellular network using six URLLC smartphone applications with network KPIs obtained from a full-stack O-RAN implementation on the NSF Colosseum emulator. Results reveal OOD detection rate as high as 81% with average false positive rate as low as 6%. Our evaluations show 93% classification accuracy in Round 2 and Round 3, for incremental CNNs with appended LoRA adapters assisted with rehearsal buffers with only 50 samples per class.
+</div>
+
+<br>
+
+Submitted to IEEE journal.
+
+<br/>
+<img align="center" width="100%" src="/images/wavy.png">
+<br/>
+
 ## VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations
 
 <img align="right" width="40%" src="/images/veritas.drawio.png" style="margin-left: 20px; margin-bottom: 10px;">
