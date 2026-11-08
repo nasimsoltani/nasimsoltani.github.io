@@ -19,10 +19,14 @@ Here are my PhD projects in chronological order.
 
 ## VERITAS
 
-<img align="right" width="40%" src="/images/veritas.drawio.png">
-<div style="text-align: justify; font-size: 16px">Abstract</div>
+<img align="right" width="40%" src="/images/veritas.drawio.png" style="margin-left: 20px; margin-bottom: 10px;">
+<div style="text-align: justify; font-size: 16px">
+Artificial Intelligence (AI)-native receivers provide lower bit error rate (BER) compared to the traditional receiver, if they are deployed on the same data distribution as their training set. A major research problem is the uncertainty of whether a particularly trained AI-native receiver maintains its superior performance over the traditional receiver in different deployment environments. To this end, we propose VERITAS as a joint measurement-recovery post deployment framework for AI-native transceivers that continuously looks for distribution shifts in the received pilots and triggers finite re-training spurts. VERITAS leverages a novel out-of-distribution algorithm to detect potential changes in the channel profile, transmitter speed, and delay spread. As soon as such a change is detected, a traditional (reference) receiver is activated, which runs for a period of time in parallel to the AI-native receiver. Finally, VERTIAS compares the bit probabilities of the AI-native and the reference receivers for the same received data inputs, and decides whether or not a retraining process needs to be initiated. Our evaluations reveal that VERITAS can detect changes in the channel profile, transmitter speed, and delay spread with 99%, 97%, and 78% accuracies, respectively, followed by timely initiation of retraining for 86%, 93.3%, and 94.8% of inputs in channel profile, transmitter speed, and delay spread test sets, respectively. </div>
 
-- [Publication](https://arxiv.org/abs/2501.09761): **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” Available on ArXiv. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
+- [Publication](https://arxiv.org/abs/2501.09761): **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” IEEE Transactions on Mobile Computing, Dec. 2025. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
+-  [Dataset](https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/XZLCUV)
+- [Code](https://github.com/nasimsoltani/veritas)
+- [Poster](https://nasimsoltani.github.io/files/VERITAS-Poster.pdf).
 
 <br/>
 <img align="center" width="100%" src="/images/wavy.png">
