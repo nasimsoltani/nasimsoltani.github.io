@@ -1,9 +1,13 @@
 ---
-layout: archive
+layout: page
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+
+
+
 <!--
 My PhD research is broadly in the area of deep learning for the physical layer.
 Specifically I have used deep learning for three distinct ares of:
@@ -20,40 +24,6 @@ Here are my PhD projects in chronological order.
 
 
 
-<a href="/projects/unicorn/"
-   style="text-decoration: none; color: inherit;">
-
-  <div style="
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    border: 1px solid #ddd;
-    border-radius: 20px;
-    padding: 12px;
-    max-width: 350px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    cursor: pointer;
-    transition: transform 0.2s, box-shadow 0.2s;
-  ">
-
-    <img src="/images/unicorn.drawio.png"
-         alt="UNICORN Project"
-         style="
-           width: 80px;
-           height: 80px;
-           object-fit: cover;
-           border-radius: 12px;
-         ">
-
-    <div>
-      <strong>UNICORN Project</strong>
-      <p style="margin: 5px 0; font-size: 14px;">
-        Traffic classification and OOD detection
-      </p>
-    </div>
-
-  </div>
-</a>
 
 
 
