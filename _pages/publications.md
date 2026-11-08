@@ -11,7 +11,7 @@ Please find my full publication list at [my Google Scholar profile](https://scho
 
 ## Selected Publications:
 
- * **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” Under Review at IEEE journal. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
+ * **Nasim Soltani**, M. Loehning, K. Chowdhury, “VERITAS: Verifying the Performance of AI-native Transceiver Actions in Base-Stations,” IEEE Transactions on Mobile Computing, Dec. 2025. [pdf](https://nasimsoltani.github.io/files/VERITAS-paper.pdf)
 
  * **Nasim Soltani**, D. LoPriore, J. Groen, K. Chowdhury, “UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN,” IEEE International Conference on Machine Learning for Communications and Networking (ICMLCN), May 2025, Barcelona, Spain. [pdf](https://nasimsoltani.github.io/files/UNICORN-paper.pdf)
 
