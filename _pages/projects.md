@@ -19,7 +19,8 @@ Here are my PhD projects in chronological order.
 
 
 
-<a href="/projects/nn-rx/"
+
+<a href="/projects/unicorn/"
    style="text-decoration: none; color: inherit;">
 
   <div style="
@@ -36,7 +37,7 @@ Here are my PhD projects in chronological order.
   ">
 
     <img src="/images/unicorn.drawio.png"
-         alt="NN-Receiver"
+         alt="UNICORN Project"
          style="
            width: 80px;
            height: 80px;
@@ -45,14 +46,15 @@ Here are my PhD projects in chronological order.
          ">
 
     <div>
-      <strong>NN-Receivers</strong>
+      <strong>UNICORN Project</strong>
       <p style="margin: 5px 0; font-size: 14px;">
-        Neural Network Based Receivers
+        Traffic classification and OOD detection
       </p>
     </div>
 
   </div>
 </a>
+
 
 
 
