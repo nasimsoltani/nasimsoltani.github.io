@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral fellow at [WNCG](https://wncg.org/) at the Electrical and Computer Engineering Department, The University of Texas at Austin, Austin, TX. I obtained my PhD in electrical and computer engineering in Summer 2026 under the supervision of [Prof. Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury), with dissertation title **"Applied Deep Learning for Next-G Communication Systems"**. My reasearch is broadly at the intersection of wireless communications and machine learning.
+I am a postdoctoral fellow at [WNCG](https://wncg.org/) at the Electrical and Computer Engineering Department, The University of Texas at Austin, Austin, TX. I obtained my PhD in electrical and computer engineering in Summer 2026 under the supervision of [Prof. Kaushik Chowdhury](https://genesys-lab.org/team/kaushik-chowdhury), with dissertation title **"Applied Deep Learning for Next-G Communication Systems"**. My reasearch is broadly at the intersection of wireless communications and machine learning.
 
 <!-- <span class="red-star">★</span> <i>I am in the academic job market looking for tenure-track positions</i>. -->
 
